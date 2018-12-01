@@ -1,5 +1,5 @@
 # ShoppingCart-Android
-A Shopping Cart in Android
+A Shopping Carts in Android
 
 - [ ] Implement tests
 - [ ] Add authentication and authorization
